@@ -2,6 +2,17 @@
 
 CalmWave is a youth wellbeing web prototype inspired by HBSC themes. It helps young people reflect on how they feel, understand their main wellbeing pressure area, and choose one small supportive action for a calmer, healthier day.
 
+## Preview
+
+### Home page
+![CalmWave home page](screenshots/home.png)
+
+### Daily check-in
+![CalmWave check-in section](screenshots/checkin.png)
+
+### Micro-challenges
+![CalmWave challenges section](screenshots/challenges.png)
+
 ## Project idea
 
 Many adolescents experience daily pressure connected to stress, sleep, school responsibilities, screen overload, and lack of movement. CalmWave turns these wellbeing areas into a simple interactive check-in and micro-challenge experience.
