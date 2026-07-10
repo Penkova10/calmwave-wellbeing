@@ -29,13 +29,15 @@ CalmWave is inspired by HBSC wellbeing themes such as stress, sleep, school pres
 
 ## Main features
 
+## Main features
+
 - Daily wellbeing check-in with sliders
 - Personalized result based on the user's answers
 - Wellbeing score
 - Micro-challenges for small daily actions
-- Saved challenge progress using localStorage
+- Saved micro-challenge progress in the browser using localStorage
 - Psychology and impact section
-- Responsive blue-green interface
+- Clean responsive user interface
 
 ## Wellbeing areas
 
