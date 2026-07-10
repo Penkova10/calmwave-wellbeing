@@ -19,6 +19,14 @@ Many adolescents experience daily pressure connected to stress, sleep, school re
 
 The app is not a diagnostic tool. It is designed as a safe self-reflection prototype that encourages emotional awareness and small behaviour changes.
 
+## Target group
+
+The target group is young people and adolescents, especially ages 11 to 15, which matches the HBSC focus on school-aged children and youth wellbeing.
+
+## HBSC inspiration
+
+CalmWave is inspired by HBSC wellbeing themes such as stress, sleep, school pressure, physical activity, digital wellbeing, healthy habits, and emotional awareness. The app does not present official HBSC statistics, but uses these themes to create an interactive self-reflection prototype.
+
 ## Main features
 
 - Daily wellbeing check-in with sliders
