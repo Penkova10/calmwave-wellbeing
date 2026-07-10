@@ -70,19 +70,73 @@ Instead of asking young people to solve everything at once, CalmWave gives one r
 - localStorage
 - Git and GitHub
 
-## How to run the project
+## How to run the project locally
 
-Install dependencies:
+To run CalmWave locally, Node.js and npm need to be installed.
 
-- npm install
+### 1. Download the project
 
-Start development server:
+Download the project as a ZIP from GitHub and extract it.
 
-- npm run dev
+Then open the extracted project folder in a terminal.
 
-Build for production:
+Example:
 
-- npm run build
+```bash
+cd calmwave-wellbeing
+```
+
+If the folder name includes the branch name, it may look like this:
+
+```bash
+cd calmwave-wellbeing-master
+```
+
+### 2. Install dependencies
+
+Run:
+
+```bash
+npm install
+```
+
+This installs all packages needed for the React/Vite project.
+
+### 3. Start the development server
+
+Run:
+
+```bash
+npm run dev
+```
+
+After the command runs, the terminal will show a local link, usually:
+
+```text
+http://localhost:5173/
+```
+
+Open that link in a browser to view the app.
+
+### 4. Build for production
+
+To check that the project builds successfully, run:
+
+```bash
+npm run build
+```
+
+This creates a production-ready version of the app in the `dist` folder.
+
+### Note for Windows PowerShell
+
+If PowerShell blocks npm commands because of script execution policy, use Command Prompt instead, or run the commands with `npm.cmd`:
+
+```bash
+npm.cmd install
+npm.cmd run dev
+npm.cmd run build
+```
 
 ## Project purpose
 
