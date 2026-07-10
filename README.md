@@ -74,15 +74,15 @@ Instead of asking young people to solve everything at once, CalmWave gives one r
 
 Install dependencies:
 
-npm install
+- npm install
 
 Start development server:
 
-npm run dev
+- npm run dev
 
 Build for production:
 
-npm run build
+- npm run build
 
 ## Project purpose
 
